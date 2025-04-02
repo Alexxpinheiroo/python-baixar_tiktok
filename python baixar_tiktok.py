@@ -34,4 +34,4 @@ def baixar_videos_ark(username):
         print(f"❌ Erro: {e}")
 
 if __name__ == "__main__":
-    baixar_videos_ark("barlettaofc")  # Altere para o perfil desejado
+    baixar_videos_ark("")  # Altere para o perfil desejado
